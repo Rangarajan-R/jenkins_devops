@@ -15,7 +15,7 @@
 
 	<div class="jumbotron text-center">
 		<h1>Student Registration Form</h1>
-		<p>ABC College of Universities</p>
+		<p>ABC College </p>
 	</div>
 
 	<div class="container">
