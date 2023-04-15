@@ -7,6 +7,6 @@
 <title>My Home Title</title>
 </head>
 <body>
-This is my first Spring Boot Web Application - Services Page
+This is my first Spring Boot Web Application - Services Page fot testing
 </body>
 </html>
