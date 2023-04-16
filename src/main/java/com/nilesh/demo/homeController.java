@@ -24,4 +24,9 @@ public class homeController {
 		repo.save(stu);
 		return "homePage";
 	}
+
+        @RequestMapping("display")
+	public String display() {
+		return "Helloworld";
+	}
 }
